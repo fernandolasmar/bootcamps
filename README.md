@@ -16,11 +16,12 @@
 
 ## Cursos na digital innovation one
 
-- Curso básico de javaScript "Programação para internet com JavaScript" - concluído 11/08/2021  
-- Curso básico de lógica "Lógica de Programação Essencial" - concluído 14/09/2021    
-- Curso básico de git e github "Introdução ao Git e ao GitHub" - concluído 19/09/2021  
-- Curso básico de scrum "Projetos ágeis com SCRUM" - concluído 03/10/2021 
+- Curso intermediário de javaScript "" - concluído //  
 - Curso básico de HTML e CSS "Introdução a criação de websites com HTML5 e CSS3" - concluído 09/10/2021   
+- Curso básico de scrum "Projetos ágeis com SCRUM" - concluído 03/10/2021 
+- Curso básico de git e github "Introdução ao Git e ao GitHub" - concluído 19/09/2021  
+- Curso básico de lógica "Lógica de Programação Essencial" - concluído 14/09/2021    
+- Curso básico de javaScript "Programação para internet com JavaScript" - concluído 11/08/2021  
 ---
 
 
